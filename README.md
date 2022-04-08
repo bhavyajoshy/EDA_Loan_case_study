@@ -1,6 +1,13 @@
 # EDA Credit Loan case Study
 This repository contains my first EDA Case Study project on Loan data. 
 
+[Application_Data.csv](https://drive.google.com/file/d/14QHbW1iGlC9uYb6CBOR97RXYX8t_h3K5/view?usp=sharing)
+
+[Previous_application.csv](https://drive.google.com/file/d/187-kQjjzp2QG-XagIeHhPNKzXsn-f4GJ/view?usp=sharing)
+
+[columns_description.csv](https://drive.google.com/file/d/15-WJMzFkM826HCJC7UxiMzsyXHM3xeaX/view?usp=sharing)
+
+
 ## Problem Statement:
 
 There are two datasets provided Application Dataset and Previous Application.
